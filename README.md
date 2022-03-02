@@ -1,4 +1,4 @@
-### Distributed Median Finding
+# Distributed Median Finding
 
 This program finds the median of data seperated in mutliple text files with a distribute algorithm using multiple processes. The program can be ran using the following command:
 
